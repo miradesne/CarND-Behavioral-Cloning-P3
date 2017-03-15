@@ -1,4 +1,6 @@
-track1/*
-track2/*
+track1/**/*
+track2/**/*
+run1/*
+run2/*
 
 windows_sim/*
